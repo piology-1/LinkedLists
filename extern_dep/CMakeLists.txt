@@ -1,0 +1,1 @@
+add_subdirectory(googletest) # clone using 'git clone https://github.com/google/googletest.git' within the extern_dep directory
