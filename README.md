@@ -82,8 +82,7 @@ Navigate to the cloned main repository directory:
 cd LinkedLists
 ```
 
-Before using the project, you need to initialize the submodules. Due to the use of googletest as an extern library, the ...
-
+Before building and using the project, all submodules need to be initialized. Due to the use of googletest as an external library, it has to be added, initialized, and updated as a git submodule.
 Run the git submodule init command to initialise the submodules:
 
 ```bash
